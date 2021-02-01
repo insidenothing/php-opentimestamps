@@ -19,3 +19,9 @@ include_once('/var/www/opentimestamps/required.php');
 
 
 </pre>
+
+
+
+# Development Systems
+* opentimestamp-server https://www.legaltimestamp.com
+* monitoring graphs https://io.adafruit.com/insidenothing/dashboards/blockchain
