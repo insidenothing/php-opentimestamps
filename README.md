@@ -17,7 +17,7 @@ Create timestamp of a file with the aid of a remote calendar.
 
 <pre>
 include_once('/var/www/opentimestamps/php-opentimestamps/required.php');
-$instance = new OstClass();
+$instance = new OtsClass();
 $instance->stamp();
 </pre>
 
