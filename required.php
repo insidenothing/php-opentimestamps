@@ -1,5 +1,5 @@
 <?php
-class Ots 
+class OtsClass 
 {
     // property declaration
     public $testing_server = 'https://legaltimestamp.com';
