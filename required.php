@@ -5,7 +5,7 @@ class Ots
     public $testing_server = 'https://legaltimestamp.com';
 
     // method declaration
-    public function debug() {
+    public function stamp() {
         echo $this->var;
     }
 }
