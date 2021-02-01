@@ -6,7 +6,7 @@ class OtsClass
 
     // method declaration
     public function stamp() {
-        echo $this->var;
+        echo $this->testing_server;
     }
 }
 ?>
