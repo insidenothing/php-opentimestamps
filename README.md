@@ -4,6 +4,7 @@ This is an attempt of a php port of https://github.com/opentimestamps/javascript
 # Install
 Dockerfile/
 <pre>
+RUN mkdir /var/www/opentimestamps
 ADD opentimestamps /var/www/opentimestamps
 RUN cd /var/www/opentimestamps; git clone --recursive https://github.com/insidenothing/php-opentimestamps.git
 </pre>
