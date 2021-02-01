@@ -14,7 +14,7 @@ RUN cd /var/www/opentimestamps; git clone --recursive https://github.com/insiden
 ## Stamp
 Create timestamp of a file with the aid of a remote calendar.
 <pre>
-include_once('/var/www/opentimestamps/required.php');
+include_once('/var/www/opentimestamps/php-opentimestamps/required.php');
 
 
 
