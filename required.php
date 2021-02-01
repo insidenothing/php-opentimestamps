@@ -1,3 +1,12 @@
-<?PHP
+<?php
+class Ots 
+{
+    // property declaration
+    public $testing_server = 'https://legaltimestamp.com';
 
-echo "Hello World!";
+    // method declaration
+    public function debug() {
+        echo $this->var;
+    }
+}
+?>
